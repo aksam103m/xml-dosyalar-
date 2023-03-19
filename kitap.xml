@@ -1,0 +1,102 @@
+<Kitaplık>
+  <Kitap>
+    <kitapno>1</kitapno>
+    <kitapadi>Sefiller</kitapadi>
+    <yayinevi>A yayınları</yayinevi>
+    <yazaradi>Viktor hugo</yazaradi>
+    <tur>roman</tur>
+    <fiyat>125</fiyat>
+    <puan>80</puan>
+    <sayfasayisi>240</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>2</kitapno>
+    <kitapadi>Beyaz Gemi</kitapadi>
+    <yayinevi>B yayınları</yayinevi>
+    <yazaradi>Cengiz Aytmatov</yazaradi>
+    <tur>roman</tur>
+    <fiyat>150</fiyat>
+    <puan>70</puan>
+    <sayfasayisi>150</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>3</kitapno>
+    <kitapadi>Suç ve Ceza</kitapadi>
+    <yayinevi>A yayınları</yayinevi>
+    <yazaradi>Dostoyevski</yazaradi>
+    <tur>roman</tur>
+    <fiyat>99</fiyat>
+    <puan>90</puan>
+    <sayfasayisi>280</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>4</kitapno>
+    <kitapadi>Otuz Beş Yaş </kitapadi>
+    <yayinevi>C yayınları</yayinevi>
+    <yazaradi>Cahit Sıtkı Tarancı</yazaradi>
+    <tur>şiir</tur>
+    <fiyat>50</fiyat>
+    <puan>80</puan>
+    <sayfasayisi>120</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>5</kitapno>
+    <kitapadi>Beyaz Zambaklar Ülkesinde</kitapadi>
+    <yayinevi>B yayınları</yayinevi>
+    <yazaradi>Grigoriy Petrov</yazaradi>
+    <tur>tarih</tur>
+    <fiyat>45</fiyat>
+    <puan>90</puan>
+    <sayfasayisi>100</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>6</kitapno>
+    <kitapadi>1984</kitapadi>
+    <yayinevi>A yayınları</yayinevi>
+    <yazaradi>George Orwell</yazaradi>
+    <tur>bilim kurgu</tur>
+    <fiyat>75</fiyat>
+    <puan>60</puan>
+    <sayfasayisi>180</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>7</kitapno>
+    <kitapadi>Tesla: Zamanin Ötesindeki Deha</kitapadi>
+    <yayinevi>C yayınları</yayinevi>
+    <yazaradi>Margaret Cheney</yazaradi>
+    <tur>biyografi</tur>
+    <fiyat>100</fiyat>
+    <puan>80</puan>
+    <sayfasayisi>75</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>8</kitapno>
+    <kitapadi>Fedailerin Kalesi Alamut</kitapadi>
+    <yayinevi>B yayınları</yayinevi>
+    <yazaradi>Vladimir Bartol</yazaradi>
+    <tur>tarih</tur>
+    <fiyat>125</fiyat>
+    <puan>80</puan>
+    <sayfasayisi>120</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>9</kitapno>
+    <kitapadi>Simyacı</kitapadi>
+    <yayinevi>A yayınları</yayinevi>
+    <yazaradi>Paulo Coelho</yazaradi>
+    <tur>roman</tur>
+    <fiyat>88</fiyat>
+    <puan>80</puan>
+    <sayfasayisi>200</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>14</kitapno>
+    <kitapadi>Mavi Yakut - Sherlock Holmes</kitapadi>
+    <yayinevi> B yayınları</yayinevi>
+    <yazaradi>Arthur Conan Doyle</yazaradi>
+    <tur>polisiye</tur>
+    <fiyat>59</fiyat>
+    <puan>70</puan>
+    <sayfasayisi>100</sayfasayisi>
+  </Kitap>
+</Kitaplık>
